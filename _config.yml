@@ -25,3 +25,5 @@ sass:
 
 plugins:
   - jekyll-feed
+
+theme: null
