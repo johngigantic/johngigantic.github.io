@@ -19,5 +19,9 @@ defaults:
     values:
       layout: "default"
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 plugins:
   - jekyll-feed
