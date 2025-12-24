@@ -105,6 +105,15 @@ a:hover {
   text-decoration: underline;
 }
 
+.stamp-sketch {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  margin: 1.5rem auto;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+}
+
 .stamp-row {
   text-align: center;
 }
