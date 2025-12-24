@@ -20,4 +20,4 @@ I then took a photo, used Adobe to convert into vector, and thickened the lines 
 ![Pottery stamp rotated 90º](/assets/images/stamp.svg){:.stamp-rotated} ![Pottery stamp](/assets/images/stamp.svg){:.stamp}
 {: .stamp-row}
 
-I researched places to buy custom pottery stamps and ended up going with [4clay.com](https://4clay.com/). They have a custom designed material which they claim is better than brass. I don't have enough experience to verify this, but it seems like it's worked well so far. I also liked that their examples seemed pretty crisp, they were manufactured in the USA, and that their website was nice and janky.
+I researched places to buy custom pottery stamps and ended up going with [4clay.com](https://4clay.com/). They have a custom designed material which they claim is better than brass. I don't have enough experience to verify this, but it seems like it's worked well so far. I also liked that their examples seemed pretty crisp, they were manufactured in the USA, and that their website had an endearing midwestern jankiness.
