@@ -36,4 +36,4 @@ I looked around until I found a map that showed all the water levels of its four
 
 I used Adobe to convert the water level map to blobs which help show off the depth, overlayed it on the state, and printed a thousand stickers. So if you see me, let me know if you want one.
 
-![Restore Lake Bonneville sticker](/assets/images/restore_lake_bonneville.png){:.bonneville-img}
+![Restore Lake Bonneville sticker](/assets/images/restore_lake_bonneville.jpg){:.bonneville-img}
