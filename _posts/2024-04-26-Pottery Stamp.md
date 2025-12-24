@@ -13,9 +13,9 @@ I refined the design a little more with Hans's tips:
 - Avoid large, thick fill sections, and stick to thinner lines to preserve more details
 - Use a sturdy material, like brass.
 
-I then scanned it with a photo, used Adobe to convert into vector, and thickened the lines to feel sort of hand-drawn and ragged, like torn paper or a postage stamp. Here's what I ended up coming up with - the K, and on its side, the angry face.
+I then took a photo, used Adobe to convert into vector, and thickened the lines to feel sort of hand-drawn and ragged, like torn paper or a postage stamp. Here's what I ended up coming up with - the K, and on its side, the angry face.
 
 ![Pottery stamp rotated 90º](/assets/images/stamp.svg){:.stamp-rotated} ![Pottery stamp](/assets/images/stamp.svg){:.stamp}
 {: .stamp-row}
 
-I researched custom pottery stamps and ended up going with [4clay.com](https://4clay.com/). They have a custom designed material which they claim is better than brass. I don't have enough experience to verify this, but it's worked well so far. I also liked that their examples seemed pretty crisp, they were manufactured in the USA, and that their website was nice and janky. 
+I researched places to buy custom pottery stamps and ended up going with [4clay.com](https://4clay.com/). They have a custom designed material which they claim is better than brass. I don't have enough experience to verify this, but my mom says that it's worked well so far. I also liked that their examples seemed pretty crisp, they were manufactured in the USA, and that their website was nice and janky.

@@ -67,6 +67,35 @@ ul {
   padding-left: 1.25rem;
 }
 
+ul,
+ol {
+  list-style: none;
+  padding-left: 1.25rem;
+  margin: 0 0 1rem;
+}
+
+ul li,
+ol li {
+  position: relative;
+}
+
+ul li::before,
+ol li::before {
+  content: "•";
+  position: absolute;
+  left: -0.85em;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.85em;
+  line-height: 1;
+  color: currentColor;
+}
+
+ul li::marker,
+ol li::marker {
+  font-size: 0.85em;
+}
+
 a {
   color: #9ac46d;
   text-decoration: none;
