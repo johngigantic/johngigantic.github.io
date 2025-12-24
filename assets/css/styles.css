@@ -75,3 +75,21 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.stamp-row {
+  text-align: center;
+}
+
+.stamp,
+.stamp-rotated {
+  display: inline-block;
+  max-width: 270px;
+  height: auto;
+  margin: 1rem 0.5rem;
+  vertical-align: middle;
+  filter: invert(1) brightness(0.5);
+}
+
+.stamp-rotated {
+  transform: rotate(90deg);
+}

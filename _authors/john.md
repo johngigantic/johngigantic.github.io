@@ -1,6 +1,6 @@
 ---
-short_name: john
+short_name: John
 name: John Little
 position: Me!
 ---
-John is a guy. Jyust a silly guy.
+John: a guy
