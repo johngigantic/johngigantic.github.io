@@ -123,3 +123,37 @@ a:hover {
 .stamp-rotated {
   transform: rotate(90deg);
 }
+
+.wiki-embed {
+  margin: 1.5rem 0;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 14px;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.04), rgba(0, 0, 0, 0.15));
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.wiki-embed-body {
+  display: grid;
+  grid-template-columns: 1fr minmax(140px, 220px);
+  gap: 1rem;
+  align-items: start;
+}
+
+.wiki-embed-img {
+  width: 220px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+}
+
+.bonneville-img {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 320px;
+  width: 100%;
+}
